@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CódigosOOP.iml" filepath="$PROJECT_DIR$/CódigosOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/POOMadia/ExercicioReforco/ExercicioReforco.iml" filepath="$PROJECT_DIR$/Exercicios/POOMadia/ExercicioReforco/ExercicioReforco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/POOMadia/POOMadia.iml" filepath="$PROJECT_DIR$/Exercicios/POOMadia/POOMadia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Rpg/Rpg.iml" filepath="$PROJECT_DIR$/Exercicios/Rpg/Rpg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Testes/Testes.iml" filepath="$PROJECT_DIR$/Exercicios/Testes/Testes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/POOMadia/abstract/abstract.iml" filepath="$PROJECT_DIR$/Exercicios/POOMadia/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/vetores/alturaMedia/alturaMedia.iml" filepath="$PROJECT_DIR$/Exercicios/vetores/alturaMedia/alturaMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/vetores/aluguel/aluguel.iml" filepath="$PROJECT_DIR$/Exercicios/vetores/aluguel/aluguel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/claesSoltasPoo/claesSoltasPoo.iml" filepath="$PROJECT_DIR$/Exercicios/claesSoltasPoo/claesSoltasPoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/cotacaoDolar/cotacaoDolar.iml" filepath="$PROJECT_DIR$/Exercicios/cotacaoDolar/cotacaoDolar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/vetores/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/Exercicios/vetores/exercicio1/exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/vetores/exercicio2/exercicio2.iml" filepath="$PROJECT_DIR$/Exercicios/vetores/exercicio2/exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/vetores/exercicio3/exercicio3.iml" filepath="$PROJECT_DIR$/Exercicios/vetores/exercicio3/exercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/vetores/exercicio4MaiorValor/exercicio4MaiorValor.iml" filepath="$PROJECT_DIR$/Exercicios/vetores/exercicio4MaiorValor/exercicio4MaiorValor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicioBanco/exercicioBanco.iml" filepath="$PROJECT_DIR$/Exercicios/exercicioBanco/exercicioBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicioClasseEstatica/exercicioClasseEstatica.iml" filepath="$PROJECT_DIR$/Exercicios/exercicioClasseEstatica/exercicioClasseEstatica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicioEmpregado/exercicioEmpregado.iml" filepath="$PROJECT_DIR$/Exercicios/exercicioEmpregado/exercicioEmpregado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicioEstoque/exercicioEstoque.iml" filepath="$PROJECT_DIR$/Exercicios/exercicioEstoque/exercicioEstoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicioHeranca/exercicioHeranca.iml" filepath="$PROJECT_DIR$/Exercicios/exercicioHeranca/exercicioHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicioOrderProduct/exercicioOrderProduct.iml" filepath="$PROJECT_DIR$/Exercicios/exercicioOrderProduct/exercicioOrderProduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/POOMadia/exercicioReforcoAp2/exercicioReforcoAp2.iml" filepath="$PROJECT_DIR$/Exercicios/POOMadia/exercicioReforcoAp2/exercicioReforcoAp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicioTeste/exercicioTeste.iml" filepath="$PROJECT_DIR$/Exercicios/exercicioTeste/exercicioTeste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicioWorkerUml/exercicioWorkerUml.iml" filepath="$PROJECT_DIR$/Exercicios/exercicioWorkerUml/exercicioWorkerUml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/matrizes/matrizes.iml" filepath="$PROJECT_DIR$/Exercicios/matrizes/matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/quickSort/quickSort.iml" filepath="$PROJECT_DIR$/Exercicios/quickSort/quickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/vetores/somaVetores/somaVetores.iml" filepath="$PROJECT_DIR$/Exercicios/vetores/somaVetores/somaVetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/teste/teste.iml" filepath="$PROJECT_DIR$/Exercicios/teste/teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/untitled/untitled.iml" filepath="$PROJECT_DIR$/Exercicios/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/vetores/vetorPOO/vetorPOO.iml" filepath="$PROJECT_DIR$/Exercicios/vetores/vetorPOO/vetorPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/vetores/vetores.iml" filepath="$PROJECT_DIR$/Exercicios/vetores/vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/matrizes/vizinhos/vizinhos.iml" filepath="$PROJECT_DIR$/Exercicios/matrizes/vizinhos/vizinhos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/POOMadia/webtwo/webtwo.iml" filepath="$PROJECT_DIR$/Exercicios/POOMadia/webtwo/webtwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/POOMadia/webtwo/webtwoparttwo/webtwoparttwo.iml" filepath="$PROJECT_DIR$/Exercicios/POOMadia/webtwo/webtwoparttwo/webtwoparttwo.iml" />
+    </modules>
+  </component>
+</project>
